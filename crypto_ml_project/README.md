@@ -55,10 +55,10 @@ crypto_ml_project/
 - [x] Data download using `yfinance`
 - [x] Exploratory Data Analysis (EDA)
 - [x] Return distribution visualization
-- [ ] Feature engineering
-- [ ] ML model training
-- [ ] Model evaluation
-- [ ] Trading signal generation
+- [X] Feature engineering
+- [X] ML model training
+- [X] Model evaluation
+- [X] Trading signal generation
 
 ---
 
@@ -99,3 +99,4 @@ crypto_ml_project/
 
 **Fardwish:)**  
 Learning-focused ML & quantitative finance project
+
